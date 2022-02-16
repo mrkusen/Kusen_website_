@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Substance Abuse Amongst LGB+ adults in the United States
+summary: Graduate level statistics research paper
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- LGBTIQ
+date: "2021-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,13 +13,9 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
+url_code: "https://github.com/mrkusen/LGB_Drug_Abuse"
+url_pdf: "https://github.com/mrkusen/LGB_Drug_Abuse/blob/master/1.%20Paper/LGB%20drug%20abuse%20manuscript.pdf"
+url_slides: "https://github.com/mrkusen/LGB_Drug_Abuse/blob/master/1.%20Paper/Semester%20Research%20Paper_Final%20Presentation_Slides.pdf"
 url_video: ""
 
 # Slides (optional).
@@ -27,15 +23,19 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+`slides: example`
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+*Background*
+Substance abuse is a major public health crisis in the United States and one that in particular facing Lesbian, Gay, Bisexual, Trans, Intersex and Queer (LGBTIQ+) community. There is significant documentation of higher rates of substance abuse issues among LGBTIQ+ persons compared to cisgender heterosexual persons although little quantitative research has been conducted within this sub-population to understand factors that impact drug abuse. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+*Methods*
+To assess drug use among LGB persons in the United States, this paper uses secondary data analysis from the Generations’ Study, a US population-based survey focused on LGB adults. The study assesses which demographic factors and childhood induced traumas may impact drug abuse for LGB populations across three age cohorts. To assess this, we used the drug use related questions from the Generations survey for our dependent variable and a range of demographic indicators and questions related to Adverse Childhood Effects as our independent variables.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+*Results*
+Our findings suggest interesting perspectives to add to the nascent literature of specific factors affecting drug use among LGB adults. This study uses descriptive statistics along with multivariate logistic regression to assesses odds ratio of our covariates against our dependent variable of drug abuse. Our statistically significant covariates for this study using logistic regression include all categories of cohort (age groups), gender, and sexual orientation. Bisexuals were 2.3 times the odds of being drug dependent and other sexual minorities were 3.48 times the odds compared with our base group of gay or lesbian persons. Sexual orientation: race covariate for bisexual and black was significant at the 10% level along with bullying for 3 of the levels, and for those who experienced sexual abuse as a child.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+*Conclusion*
+This research is one of the first to look at in-group risk factors for drug abuse issues of LGB adults contributing to a new literature to help shed light on who within the LGB groups are most at risk for developing drug abuse problems and suffering from drug dependency as an adult. This paper finds that women, non-binary, and bisexuals are most at risk of developing drug dependence within this group. It also confirms that similar to the general population, those who experience bullying and sexual abuse have higher odds of developing a substance abuse problem. 
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+
