@@ -1,5 +1,5 @@
 ---
-title: Substance Abuse Amongst LGB+ adults in the United States
+title: Understanding Drug Use, Trauma and Demographics of Lesbian, Gay, and Bisexual (LGB) persons in the United States
 summary: Graduate level statistics research paper
 tags:
 - LGBTIQ
