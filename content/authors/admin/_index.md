@@ -63,11 +63,14 @@ email: ""
 highlight_name: true
 ---
 
-Matthew Kusen is a specialist in Demography and Public Health with 10 years of experience working in and providing technical support to programs in humanitarian and international development settings.  
+Matthew Kusen is a specialist in Demography and Public Health with 10 years of experience working in and providing technical support to programs in humanitarian and development settings in low and middle income countries.  
 
 Demonstrated skills in data analysis, statistical analysis, data visualization, monitoring & evaluation, management, leadership, coordination, training, capacity development, program design, budget management and reporting. 
 
 Technical expertise in sexual & reproductive health (SRH) and inclusion of sexual and gender minorities (LGBTIQ+).
+
+Languages: Native English speaker and Working Proficiency in French.
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/mrkusen/Kusen_CV/blob/master/Kusen_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
