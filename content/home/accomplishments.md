@@ -23,12 +23,10 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/7849aea246438893084ff13bbef4c12974cfdd03
-  date_start: "2022-05-02"
+- date_start: "2022-05-02"
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: 'Python Fundamentals'
-  url: ""
 
 design:
   columns: '2' 
