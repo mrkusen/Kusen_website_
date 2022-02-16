@@ -1,9 +1,9 @@
 ---
 title: Inferential Statistics Using R
-subtitle: Some analysis from demographic and graduate level statistics coursework 
+subtitle: Development of Population Pyramid in R
 
 # Summary for listings and search engines
-summary: add in summary
+summary: Development of Population Pyramid in R using ggplot to assess differences between actual US population vs. number of Facebook/Instagram users in the US.
 
 # Link this post with a project
 projects: []
