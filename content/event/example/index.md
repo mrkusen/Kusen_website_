@@ -5,6 +5,12 @@ event: Event Name
 event_url: https://example.org
 
 location: online
+address:
+  street:  
+  city: 
+  region: 
+  postcode: 
+  country: 
 
 summary: add title
 abstract: add abstract
@@ -28,7 +34,10 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links: ""
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/mkusen
 url_code: ""
 url_pdf: ""
 url_slides: ""
