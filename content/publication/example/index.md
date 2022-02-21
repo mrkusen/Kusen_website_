@@ -24,8 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *TBD*
-publication_short: In *TBD*
+publication: In *To Be Determined*
 
 abstract: insert abstract
 
@@ -41,7 +40,8 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
+- name: Custom Link
+  url: http://example.org
 url_pdf: ''
 url_code: ''
 url_dataset: ''
