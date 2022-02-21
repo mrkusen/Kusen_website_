@@ -6,11 +6,11 @@ event_url: https://example.org
 
 location: online
 address:
-  street:  
-  city: 
-  region: 
-  postcode: 
-  country: 
+  street:  Phaya Thai
+  city: Bangkok
+  region: TH
+  postcode: '10400'
+  country: Thailand
 
 summary: add title
 abstract: add abstract
