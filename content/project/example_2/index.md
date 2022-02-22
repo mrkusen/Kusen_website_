@@ -30,6 +30,9 @@ image:
 
 authors:
 - admin
+links:
+url_code: "https://github.com/mrkusen/LGBT_GAI/blob/main/GAI_2021_best_worst.Rmd"
+url_slides: "https://rpubs.com/mrkusen/gai_data_analysis"
 
 tags:
 - R
