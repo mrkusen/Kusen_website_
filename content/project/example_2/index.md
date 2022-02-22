@@ -46,6 +46,7 @@ tags:
 The GAI measures changes in social acceptance to LGBT people and issues in 175 countries. The Global Acceptance Index (GAI) uses data from more than 2,750 surveys conducted over 30 years and provides each nation with a score of 0 to 10 to indicate their level of acceptance. (Flores 2021)
 
 
-## Get Started
+## Data Visualization 
 
+Using data from the GAI, I have analyzed and visualized the change of countries score in acceptance of LGBTI persons and issues between 2000 until 2021. A link is provided on GitHub with the reproducible code in R markdown using the R programming language. Additional geospatial visualizations are included in the 'slide' link such as the score for each country in 2021 and the most accepting 15 countries and bottom 15 least accepting countries in the world as of 2021.
 
