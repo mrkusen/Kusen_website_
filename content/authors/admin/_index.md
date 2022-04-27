@@ -26,7 +26,7 @@ education:
   courses:
   - course: MA in Demography
     institution: Chulalongkorn University (Thailand)
-    year: Estimated May 2022
+    year: Expected November 2022
   - course: BA in Political Science
     institution: University at Buffalo, SUNY
     year: 2012
