@@ -10,7 +10,7 @@ role: Demography / Public Health
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Independent Consultant
+- name: Australian Federation of AIDS Organisations (AFAO)
 
 # Short bio (displayed in user profile at end of posts)
 bio: Demographer and Public Health Specialist 
