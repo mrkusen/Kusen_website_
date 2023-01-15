@@ -25,10 +25,10 @@ interests:
 education:
   courses:
   - course: MA in Demography
-    institution: Chulalongkorn University (Thailand)
-    year: December 2022
+    institution: Chulalongkorn University, Thailand
+    year: 2022
   - course: BA in Political Science
-    institution: University at Buffalo, SUNY
+    institution: University at Buffalo, SUNY, U.S.A.
     year: 2012
 
 # Social/Academic Networking
