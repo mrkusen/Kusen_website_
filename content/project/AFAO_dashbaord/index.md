@@ -31,7 +31,7 @@ image:
 authors:
 - admin
 links:
-url_code: "https://www.afao.org.au/our-work/international-program/dashboard/"
+url_dashboard: "https://www.afao.org.au/our-work/international-program/dashboard/"
 
 tags:
 - PowerBI
@@ -48,5 +48,5 @@ As part of the Sustainability of Key Population HIV Services across Asia program
 
 ## Data Visualization 
 
-Data collected was analyzed iteratively throughout the process, with fact-checking and verification occurring where required. Survey results were analyzed using R and Power BI for dashboard development. Dashboard results can be accessed online. https://www.afao.org.au/our-work/international-program/ dashboard/ The dasboard that I developped included an overview tab of who provided information as well as 5 tabs related to each of the objetives of the program. Data can be filtered by country and the type of stakeholder in the dashboard. 
+Data collected was analyzed throughout the process, with fact-checking and verification occurring where required. Survey results were analyzed using R and Power BI for dashboard development. Dashboard results can be accessed online. https://www.afao.org.au/our-work/international-program/dashboard/ . The dashboard that I developed included an overview tab of who provided information as well as 5 tabs related to each of the objectives of the program. Data can be filtered by country and the type of stakeholder in the dashboard. 
 
