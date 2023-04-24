@@ -31,7 +31,7 @@ image:
 authors:
 - admin
 links:
-url_dashboard: "https://www.afao.org.au/our-work/international-program/dashboard/"
+external_link: "https://www.afao.org.au/our-work/international-program/dashboard/"
 
 tags:
 - PowerBI
