@@ -10,7 +10,7 @@ role: Demography / Public Health
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Australian Federation of AIDS Organisations (AFAO)
+- name: Health Equity Matters
 
 # Short bio (displayed in user profile at end of posts)
 bio: Demographer and Public Health Specialist 
